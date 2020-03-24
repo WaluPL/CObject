@@ -1,0 +1,7 @@
+					5.0 5.0 5.0 5.0 5.0
+Einstein 			1.5 3.0 0.5 1.5 3.0
+Chopin 				0.5 3.5 2.5 1.5 3.0
+Sklodowska-Curie 	5.0 5.0 5.0 1.5 3.0
+Einsteina 			1.5 3.0 0.5 1.5 3.0
+Chopina 			0.5 3.5 2.5 1.5 3.0
+Sklodowska-Curiea 	5.0 5.0 5.0 1.5 3.0
